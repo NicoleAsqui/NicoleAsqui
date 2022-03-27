@@ -3,9 +3,6 @@
 
 Welcome to my profile! I'm a Software Development Intern from Ecuador . Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/nicole-asqui-manzaba-ab25b4b6/)!
 
-
-
-
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -16,8 +13,6 @@ Welcome to my profile! I'm a Software Development Intern from Ecuador . Thanks f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-
 
 ### Social Media
 <br> <br>
