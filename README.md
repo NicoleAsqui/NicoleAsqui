@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World, I'm Nicole :purple_heart:  👋
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 Welcome to my profile! I'm a Intern Software Developers from Ecuador . Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/nicole-asqui-manzaba-ab25b4b6/)!
 
