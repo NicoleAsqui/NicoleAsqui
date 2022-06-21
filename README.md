@@ -1,5 +1,5 @@
-### Hello World, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm Nicole 👋
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+### Hello World,  I'm Nicole 👋
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 50/>
 
 Welcome to my profile! I'm a Software Development Intern from Ecuador . Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/nicole-asqui-manzaba-ab25b4b6/)!
 I am a final year student of Computer Science Engineering at the Faculty of Electrical and Computer Engineering at ESPOL. I love art, creativity and technology.
